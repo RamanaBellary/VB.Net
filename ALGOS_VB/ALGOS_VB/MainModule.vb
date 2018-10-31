@@ -16,8 +16,11 @@ Class Program
         'WriteLine(c.Name)
 #End Region
 
-        DelegatesEx.Do()
-
+        'DelegatesEx.Do()
+        'GenericsEx.Do()
+        'IComparerEx.Do()
+        'IEquitableEx.Do()
+        OperatorEx.Do()
         WriteLine("Press any key to exit.")
         ReadLine()
     End Sub

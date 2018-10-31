@@ -68,6 +68,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DelegatesEx.vb" />
+    <Compile Include="GenericsEx.vb" />
+    <Compile Include="IComparerEx.vb" />
+    <Compile Include="IEquitableEx.vb" />
     <Compile Include="MainModule.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
@@ -84,6 +87,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="OperatorEx.vb" />
     <Compile Include="SubModule1.vb" />
   </ItemGroup>
   <ItemGroup>
