@@ -20,7 +20,9 @@ Class Program
         'GenericsEx.Do()
         'IComparerEx.Do()
         'IEquitableEx.Do()
-        OperatorEx.Do()
+        'OperatorEx.Do()
+        'ReflectionEx.Do()
+        'SerializationAndDeSerialization.Do()
         WriteLine("Press any key to exit.")
         ReadLine()
     End Sub
