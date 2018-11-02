@@ -23,6 +23,10 @@ Class Program
         'OperatorEx.Do()
         'ReflectionEx.Do()
         'SerializationAndDeSerialization.Do()
+
+#Region "Datastrucutures"
+        LinkedListEx.Do()
+#End Region
         WriteLine("Press any key to exit.")
         ReadLine()
     End Sub

@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DelegatesEx.vb" />
+    <Compile Include="DesignPatterns\LinkedListEx.vb" />
     <Compile Include="GenericsEx.vb" />
     <Compile Include="IComparerEx.vb" />
     <Compile Include="IEquitableEx.vb" />
