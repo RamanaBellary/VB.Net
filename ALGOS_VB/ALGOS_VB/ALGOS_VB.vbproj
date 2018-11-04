@@ -69,6 +69,8 @@
   <ItemGroup>
     <Compile Include="DelegatesEx.vb" />
     <Compile Include="DesignPatterns\LinkedListEx.vb" />
+    <Compile Include="DesignPatterns\QueueUsingLinkedList.vb" />
+    <Compile Include="DesignPatterns\StackUsingLinkedList.vb" />
     <Compile Include="GenericsEx.vb" />
     <Compile Include="IComparerEx.vb" />
     <Compile Include="IEquitableEx.vb" />
@@ -91,6 +93,11 @@
     <Compile Include="OperatorEx.vb" />
     <Compile Include="ReflectionEx.vb" />
     <Compile Include="SerializationAndDeSerialization.vb" />
+    <Compile Include="SOLID\InterfaceSegregation.vb" />
+    <Compile Include="SOLID\InversionOfDependency.vb" />
+    <Compile Include="SOLID\LiskovsSubstitutionPrinciple.vb" />
+    <Compile Include="SOLID\OpenClosedPrincipal.vb" />
+    <Compile Include="SOLID\SingleResponsibility.vb" />
     <Compile Include="SubModule1.vb" />
   </ItemGroup>
   <ItemGroup>

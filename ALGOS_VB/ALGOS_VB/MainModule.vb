@@ -25,7 +25,9 @@ Class Program
         'SerializationAndDeSerialization.Do()
 
 #Region "Datastrucutures"
-        LinkedListEx.Do()
+        'LinkedListEx.Do()
+        'QueueUsingLinkedList.Do()
+        'StackUsingLinkedList.Do()
 #End Region
         WriteLine("Press any key to exit.")
         ReadLine()
